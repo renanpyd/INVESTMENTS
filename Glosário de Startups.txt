@@ -1,0 +1,165 @@
+Glosário de Startups: 
+
+A
+	A.I.: Artificial Intelligence = inteligência artificial
+	Aceleradora: Tem o objetivo de investir nas startups para acelerar o seu crescimento.
+	Alavancagem: Técnica para aumentar a rentabilidade através de injeção de capital.
+	Aporte: Investimento de capital feito em uma startup.
+B
+	B2B: Tipo de negócio que vende produtos ou serviços para outros negócios ou organizações.
+	B2C: Tipo de negócio que vende produtos ou serviços diretamente ao cliente final.
+	Benchmarking: Busca por referências no mercado para seu produto, serviço.
+	Beta: Versão de um software ou produto em estágio ainda de desenvolvimento.
+	Big Data: Estuda como tratar, analisar e obter informações a partir de dados grandes.
+	Boost: Técnicas que ajudam no impulsionamento inicial de startups para o mercado.
+	Bootcamp: Tipo de aprendizagem intensiva e acelerada, nas mais diversas áreas.
+	Bootstrapp: Quando o empreendedor autofinancia o desenvolvimento e crescimento.
+	Branding: Conjunto de ações alinhadas ao posicionamento, propósito e valores da marca.
+	Break-even: Ponto de equilíbrio da startup.
+*** Budget: Um jeito diferente de falar orçamento.
+	Burn Rate: É um sinônimo de fluxo de caixa negativo.
+	Business plan: É o plano de negócios de empresa.
+C
+	CAC: Custo de Aquisição de clientes, ou seja, o valor gasto em marketing e vendas.
+	Canvas: Ferramenta de gerenciamento estratégico.
+	Cap table: Mostra a distribuição acionária de uma empresa.
+	Capital de giro: Recursos financeiros utilizados para manter o funcionamento da startup.
+	Capital social: Parcela da empresa que os acionistas possuem.
+	CD (Customer Development): Estratégias para startup chegar ao Product Market Fit.
+	CEO (Chief Executive Officer): Pessoa com maior autoridade na hierarquia.
+	CHASM: Abismo conhecido como vale da morte das startups.
+	CHURN: Percentual de usuários ou clientes que cancelaram um serviço ou produto.
+	Clientes: Adquirem produtos e serviços.
+	Cloud (Nuvem): Rede global de servidores remotos que operam como um único ecossistema.
+	Corporate: Empresas de grande porte já estabelecidas no mercado.
+	Coworking: Local de trabalho compartilhado, que incentiva troca de conhecimentos e conexões.
+	Crowdfunding: Financiamento coletivo realizado por meio de plataformas online.
+	Crowdsourcing: Utilizar pequenas contribuições de muitas pessoas para alcançar um objetivo.
+	Customer Success: Conjunto de estratégias para uma startup melhorar a vida do cliente.
+	CTO (Chief Technology Officer): Diretor de Tecnologia.
+	Customer centric: Organizações centradas no cliente.
+D
+	DAUS (Daily Active Users): Usuários ativos diários.
+	Dead Line: Um jeito diferente de falar prazo final.
+	Deal Breaker: Algum fator como cláusula ou compromisso que impede e encerra uma negociação.
+	Demo day: Dia em que os empreendedores dão um pitch sobre seus projetos.
+	Design Thinking: Abordagem que busca a solução de problemas de forma coletiva.
+	Design: Processo ou ciência para solucionar um determinado problema, seja ele qual for.
+	Dilution: Diluição do percentual de um sócio reduzindo o percentual de suas cotas.
+	Dinheiro: Energia.
+	Disrupt: Disrupção é a transformação causada por uma inovação.
+	Down Round: Oferecer ações adicionais para venda a um preço inferior a rodada anterior.
+	Drag along: Visa o favorecimento aos acionistas majoritários de uma empresa.
+	Due Diligence: Processo de análise e investigação que uma empresa passa antes de alguma operação empresarial.
+E
+	Early Stage Financing: O primeiro financiamento que uma startup recebe.
+	Early Stage: Startups em estágio inicial.
+	Elevator pitch: É um pitch apresentado de forma mais curta, objetiva e direta.
+	Enterprise: Empresa de grande porte.
+	Entrepreneur: Um empreendedor. Alguém que identificou um problema e optou por resolvê-lo criando um negócio.
+	Equity: Parcelas de ações da empresa, ou seja, é a parte que cabe a cada um dos sócios da empresa.
+	Escalar: Quando é possível repetir em grandes quantidades uma solução, atendendo um grande público.
+	Evangelist: Um associado da empresa com a missão de encantar a todos em torno de um produto, tecnologia ou propósito.
+	Exit: É o ponto de saída da startup, momento em que ela é vendida ou se torna pública (IPO).
+F
+	Fluxo de caixa: Representa o montante financeiro que entrou e saiu de uma empresa em determinado período.
+	Follow On: Uma nova rodada de investimento realizada por um investidor que participou de rodas anteriores.
+	Fool: Aquele cara que colocou dinheiro na sua ideia antes dela estar estruturada.
+	Founder: Fundador de um negócio.
+G
+	Geek: Pessoa que tem um profundo interesse por assuntos científicos e tecnológicos.
+	Go to Market: Estratégia de colocação do seu produto ou serviço no mercado de maneira precisa e eficiente.
+	Goodwill: Ações de relacionamento com o mercado que faz com que uma empresa aumente o seu valor percebido.
+	Growth Capital: Investimento financeiro que busca alavancar o crescimento da startup no mercado.
+	Growth Hacking: Técnica combinatória de diferentes recursos para alcançar resultados excepcionais.
+	Growth Metric: Indicadores numéricos que permitem avaliar a taxa de crescimento de uma startup.
+	Growth: Crescimento.
+	GSD (Get Shit Done): Get Shit Done – fazer acontecer.
+	Guideline: Diretriz que visa agilizar processos específicos de acordo com uma rotina.
+H
+	Hackathon: Maratona de programação.
+	Hacker - Desenvolvimento back-end: Programador que desenvolve a estrutura não vista pelos usuários.
+	Hacker - Desenvolvimento front-end: Programador que desenvolve a estrutura vista pelos usuários.
+	Hacker: Alguém capaz de resolver um problema através de uma solução não convencional.
+	Hipster - Design UX/UI: Tecnicas de experiência do usuários e melhores estratégias de interface para sistemas.
+	Hurdle Rate: Taxa mínima de retorno esperada por um investidor.
+	Hustler – Vendas (Inside Sales): Carreira em vendas; fundamentos de Inside Sales; processos e abordagens de vendas.
+	Hyper - Marketing Digital: Jornada do usuário; funil de vendas Inbound/Outbound; automação criativa de marketing.
+I
+	Incubadora: Tem o objetivo de auxiliar no desenvolvimento de uma startup.
+	Infobesity: Excesso de informação que prejudica o avanço e desenvolvimento de uma startup.
+	Investidor anjo: Pessoa física que investe seu próprio capital em startups em estágios iniciais.
+	IPO: Tipo de oferta pública, quando uma empresa vende suas ações pela primeira vez na bolsa de valores.
+J
+	J Curve: A curva no formato da letra ”J” que mostra que antes de um crescimento vertical, existe uma depressão na curva.
+	Jobs Act: A lei do Crowdfunding do Obama (2012) que facilita a captura de investimentos por parte das startups.
+K
+	Know How: Habilidade adquirida pela experiência.
+	KPI: São indicadores chaves do desempenho de uma empresa.
+L
+	Lead: É um potencial cliente que forneceu suas informações de contato em troca de uma oferta da empresa.
+	Lean Startup: Metodologia de gestão que otimiza custos e reduz o tempo e os desperdícios de uma empresa.
+	LTV: Life Time Value é o valor total que um cliente deixará ao longo da sua vida na empresa.
+M
+	MAUS (Monthly Actvive Users): Usuários ativos mensais.
+	Meetups: Encontros informais que estimulam networking e troca de conhecimento entre profissionais da área de tecnologia.
+	Mentor: Profissionais que possuem experiência e disponibilizam seu tempo para a orientação.
+	Milestone: Etapa definida para a entrega de uma etapa de projeto.
+	Mindset: Predisposição que uma pessoa ou grupo têm para determinados pensamentos e padrões de comportamento.
+	Mockup: Modelo de representação de um objeto ou dispositivo.
+	MOM: O indicador de crescimento mês-a-mês de uma startup, podendo variar desde vendas até usuários registrados.
+	MRR (Monthly Recurring Revenue): Indicador que representa a receita mensal recorrente.
+	MVP: Sigla para mínimo produto viável. Versão simplificada da solução a ser implantada.
+N
+	NDA: Non-Disclosure Agreement é um acordo de confidencialidade entre o investidor e a empresa que está sendo investida.
+	Network Effects: Semelhante a reação em cadeia, quando adicionando mais um elemento causa uma explosão.
+	Networking: É a criação de uma rede de relacionamentos.
+	Nootropics: Suplementos ou drogas para aumentar a função cerebral, aumentar o foco e a hiperatividade.
+	NPS: Net Promoter Score é o indicador que representa a satisfação do seu cliente.
+P
+	Persona: Representação semi-fictícia e humanizada do cliente ideal da startup
+	PHANTOM TESTING – um teste fantasma, geralmente quando a empresa não possui ainda um produto mas deseja testar uma hipótese.
+	Pitch Deck: Apresentação visual utilizada durante o pitch.
+	Pitch: Tipo de apresentação da sua startup para investidores.
+	Pivotar: Vem do verbo em inglês “to pivot”, que significa girar. É quando mudamos o rumo do negócio.
+	Platform: Um negócio - baseado numa plataforma - que agrega valor facilitando a conexão e colaboração entre interessados.
+	Post-Money Valuation: o valor de uma empresa após ela receber um aporte financeiro.
+	Pre- seed: Rodada inicial de investimentos desenhada para a startup alcançar determinado objetivo.
+	Pre-Money Valuation: o valor de uma empresa antes dela receber um aporte financeiro.
+	Pre-Revenue: estágio onde a startup ainda não está gerando receitas.
+	Pre-sales: Ações tomadas antes de um cliente ser adquirido.
+	Private equity: Modalidade de alto investimento em empresas de capital fechado, por meio de fundos.
+	Problema: Oportunidade. Foco fundamental dos empreendedores. As startups existem para resolver problemas.
+	Product Market Fit: Momento no qual um grupo de pessoas ou empresas se mostra disposto a pagar pelo seu produto ou serviço.
+	Prospect: Pessoa que entre em contato com a marca de alguma forma, consumindo de forma ativa conteúdos e e-mails.
+	Protótipo: É um produto que está em fase inicial de testes.
+R
+	RampUp: Fase inicial de desenvolvimento de um produto, visando a comercialização.
+	Redbull: Bebida energética utilizada como artifício de empreendedores de startups que viram noites até o negócio dar certo.
+	Research: Pesquisa feita de forma sistemática que tem o objetivo de chegar a novas conclusões.
+	ROI: É o retorno sobre um investimento realizado.
+	Runaway: período, geralmente em meses, que a empresa ainda tem para acabar o seu dinheiro.
+S
+	SaaS (Software as a Service): No modelo SaaS, o fornecedor do software se responsabiliza pela estrutura.
+	Seed Roound: Investimento de menor valor realizados no começo do desenvolvimento da startup.
+	SERIEAS A/B/C: rodadas de investimentos subsequentes ao capital semente.
+	Share: Participação do negócio.
+	Smart Money: É uma forma de investimento com capital financeiro, networking e conhecimento de mercado.
+	Solução: Alternativa encontrada para solucionar determinada dor (problema) de mercado.
+	Stakeholders: Atores de um ecossistema que podem interferir de forma positiva ou negativa em um negócio.
+	Stealth Mode: startup se desenvolvendo em modo secreto para não chamar a atenção de potenciais concorrentes.
+	Sunsetting: a eliminação gradual (por do sol) de um produto ou serviço, geralmente associada a um fracasso.
+	Syndicate: um grupo (sindicato) de investidores que se juntam para aumentar a sinergia e poder de investimento.
+T
+	Tag Alone: cláusula que permite ao acionista minoritário vender suas ações nas mesmas condições de venda do majoritário.
+	Takeunder: uma oferta de compra de uma empresa por valor menor a do seu preço de mercado.
+	TAM: Total Addressable Market, ou quantidade total de receita que poderia ser gerada pelo produto no mercado impactado.
+	Term Sheet: o documento inicial que resume os principais termos e condições para orientar a realização de um investimento.
+U
+	Ubercorn: uma startup (empresa privada) com valor superior a U$ 10 Bilhões, como o Uber.
+	Unicorn: uma startup (empresas privada) onde o último valuation atingiu U$ 1 Bilhão.
+	Unicorpse: um unicórnio que morreu.
+V
+	Valuation: o termo usado para estimar quanto uma empresa vale, determinando seu preço no mercado.
+	Venture Capital: empresas que investem em startups utilizando recursos de outras pessoas ou empresas.
+	Vesting: geralmente utilizado para atrair e reter talentos, estabelece condições de participação futura na startup.
